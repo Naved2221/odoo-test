@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+*.log
+*.db
+odoo.conf
+venv/
+.env
