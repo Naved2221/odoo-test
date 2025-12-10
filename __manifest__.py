@@ -12,5 +12,5 @@
         "views/my_model_views.xml"
     ],
     "installable": True,
-    "application": False
-}
+    "application": True,
+    "license": "LGPL-3",}
